@@ -24,7 +24,7 @@ import javafx.stage.Stage;
  *Project : Icecream Selection Application
  * 
  */
-public class Assignment4 extends Application {
+public class IceCreamMain extends Application {
     
 
     Double total = 0.0;
@@ -48,7 +48,7 @@ public class Assignment4 extends Application {
     	VBox leftVBox = new VBox();
     	leftVBox.setAlignment(Pos.CENTER_LEFT);
 
-        Script_Assignment4 script = new Script_Assignment4();
+        Script_IceCreamSelector script = new Script_IceCreamSelector();
         
         HBox sizeHBox = new HBox();
         sizeHBox.setStyle("-fx-padding: 10 20 10 20;");

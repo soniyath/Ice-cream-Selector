@@ -21,8 +21,7 @@ import javafx.stage.Stage;
  *Sheridan ID : 991503772
  *Submission Date : 2018/07/25 
  *Instructor : Haya Ghalayini
- *Project : Assignment4
- *Icecream Selection Application
+ *Project : Icecream Selection Application
  * 
  */
 public class Assignment4 extends Application {

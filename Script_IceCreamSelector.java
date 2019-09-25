@@ -1,6 +1,6 @@
 import java.util.ArrayList;
 
-public class Script_Assignment4 {
+public class Script_IceCreamSelector {
 
 
 /**
@@ -8,8 +8,7 @@ public class Script_Assignment4 {
  *Sheridan ID : 991503772
  *Submission Date : 2018/07/25 
  *Instructor : Haya Ghalayini
- *Project : Assignment4
- *Icecream Selection Application
+ *Project : Icecream Selection Application
  * 
  */
 	
